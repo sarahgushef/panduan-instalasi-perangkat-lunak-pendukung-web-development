@@ -2,4 +2,4 @@
 
 Berikut ini beberapa cara untuk instalasi perangkat lunak pendukung _web development_ pada setiap _operating system_.
 
--   [Instalasi VS Code](./vs-code-installation.md)
+- [Instalasi VS Code](./lessons/vs-code-installation.md)
