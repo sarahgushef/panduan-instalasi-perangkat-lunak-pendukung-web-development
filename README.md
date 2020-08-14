@@ -7,3 +7,11 @@ Berikut ini beberapa cara untuk instalasi perangkat lunak pendukung _web develop
 - [Deploy Netlify](./lessons/deploy-netlify.md)
 
 - [Deploy Heroku](./lessons/deploy-heroku.md)
+
+## Linux Ubuntu
+
+- [Instalasi DBeaver](./lessons/ubuntu-dbeaver-installation.md)
+
+## macOS
+
+## Windows
