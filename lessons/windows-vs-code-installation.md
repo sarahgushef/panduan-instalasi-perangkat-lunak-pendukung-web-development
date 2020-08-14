@@ -2,40 +2,6 @@
 
 Berikut ini adalah cara melakukan instalasi VS Code pada masing-masing _operating system_.
 
-## Instalasi Visual Studio Code pada macOS
-
-1. Buka [tautan ini untuk mengunduh VS Code](https://code.visualstudio.com/Download)
-
-2. Klik VS Code _installer_ untuk macOS
-   ![vscode for mac](../assets/images/vs-code-installation/choose-vs-code-for-mac.png)
-
-3. Tunggu VS Code _installer_ Anda selesai diunduh.
-   ![vs code downloading](../assets/images/vs-code-installation/vs-code-downloading.png)
-
-4. Setelah selesai diunduh, buka VS Code _installer_ Anda dan klik dua kali. VS Code akan terinstal secara otomatis.
-   ![vs code installing](../assets/images/vs-code-installation/vs-code-installing.png)
-   ![vs code installed](../assets/images/vs-code-installation/vs-code-installed.png)
-
-5. Secara _default_, VS Code akan terinstal di dalam folder Downloads, bersama dengan *installer*nya. Anda bisa pindahkan VS Code ke dalam folder Applications agar lebih rapi.
-
-## Instalasi Visual Studio Code pada Ubuntu
-
-1. Buka [tautan ini untuk mengunduh VS Code](https://code.visualstudio.com/Download)
-
-2. Klik VS Code _installer_ untuk macOS
-   ![vscode for ubuntu](../assets/images/vs-code-installation/choose-vs-code-for-ubuntu.png)
-3. Tunggu VS Code _installer_ Anda selesai diunduh.
-
-4. Bukalah VS Code _installer_ Anda
-   ![vs code installer for ubuntu](../assets/images/vs-code-installation/vs-code-installer-for-ubuntu.jpeg)
-
-5. Kemudian klik _install_ pada jendela _installer_. VS Code akan otomatis terinstal (tombol _install_ akan berubah menjadi warna merah jika instalasi selesai)
-   ![ubuntu vs code installer window](../assets/images/vs-code-installation/vs-code-installer-window-ubuntu.jpeg)
-   ![vs code installed on ubuntu](../assets/images/vs-code-installation/vs-code-installed-on-ubuntu.jpeg)
-
-6. Cek pada menu untuk memastikan VS Code sudah terinstal
-   ![vs code on ubuntu menu](../assets/images/vs-code-installation/vs-code-on-ubuntu-menu.jpeg)
-
 ## Instalasi Visual Studio Code pada Windows
 
 1. Buka [tautan ini untuk mengunduh VS Code](https://code.visualstudio.com)
