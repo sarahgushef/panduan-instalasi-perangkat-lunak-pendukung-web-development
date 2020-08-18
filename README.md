@@ -12,6 +12,9 @@ Berikut ini beberapa cara untuk instalasi perangkat lunak pendukung _web develop
 
 - [Instalasi DBeaver](./lessons/ubuntu-dbeaver-installation.md)
 
+- [Instalasi NodeJS](./lessons/ubuntu-node-installation.md)
+
+
 ## macOS
 
 - [Instalasi VS Code](./lessons/mac-vs-code-installation.md)
