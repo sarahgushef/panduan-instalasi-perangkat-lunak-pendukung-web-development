@@ -14,6 +14,12 @@ Berikut ini beberapa cara untuk instalasi perangkat lunak pendukung _web develop
 
 - [Instalasi NodeJS](./lessons/ubuntu-node-installation.md)
 
+- [Instalasi MySQL](./lessons/ubuntu-mysql-installation.md)
+
+- [Instalasi MongoDB](./lessons/ubuntu-mongodb-installation.md)
+
+- [Instalasi Mongo Compass](./lessons/ubuntu-mongo-compass-installation.md)
+
 
 ## macOS
 
