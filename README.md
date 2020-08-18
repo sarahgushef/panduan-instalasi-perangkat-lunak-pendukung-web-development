@@ -14,11 +14,11 @@ Berikut ini beberapa cara untuk instalasi perangkat lunak pendukung _web develop
 
 - [Instalasi NodeJS](./lessons/ubuntu-node-installation.md)
 
-
 ## macOS
 
 - [Instalasi VS Code](./lessons/mac-vs-code-installation.md)
-- [Instalasi Node.js](./lessons/node-js-installation.md)
+- [Instalasi Node.js](./lessons/mac-node-js-installation.md)
+- [Instalasi MySQL](./lessons/mac-mysql-installation.md)
 
 ## Windows
 
