@@ -20,7 +20,6 @@ Berikut ini beberapa cara untuk instalasi perangkat lunak pendukung _web develop
 
 - [Instalasi Mongo Compass](./lessons/ubuntu-mongo-compass-installation.md)
 
-
 ## macOS
 
 - [Instalasi VS Code](./lessons/mac-vs-code-installation.md)
