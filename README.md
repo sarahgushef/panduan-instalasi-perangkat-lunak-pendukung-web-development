@@ -18,6 +18,7 @@ Berikut ini beberapa cara untuk instalasi perangkat lunak pendukung _web develop
 
 - [Instalasi VS Code](./lessons/mac-vs-code-installation.md)
 - [Instalasi Node.js](./lessons/mac-node-js-installation.md)
+- [Instalasi MySQL](./lessons/mac-mysql-installation.md)
 
 ## Windows
 
