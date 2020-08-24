@@ -1,6 +1,6 @@
 # Instalasi DBeaver pada macOS
 
-DBeaver adalah sebuah aplikasi _Graphical User Interface_ untuk mengakses _database_ yang bersifat _non-relational_, seperti MySQL, PostgreSQL, SQLite, Oracle, dll.
+DBeaver adalah sebuah aplikasi _Graphical User Interface_ untuk mengakses _database_ yang bersifat _relational_, seperti MySQL, PostgreSQL, SQLite, Oracle, dll.
 
 Langkah-langkah instalasi DBeaver pada macOS adalah:
 
