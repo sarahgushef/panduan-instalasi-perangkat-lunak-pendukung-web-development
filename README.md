@@ -21,6 +21,7 @@ Berikut ini beberapa cara untuk instalasi perangkat lunak pendukung _web develop
 - [Instalasi Node.js](./lessons/mac-node-js-installation.md)
 - [Instalasi MySQL](./lessons/mac-mysql-installation.md)
 - [Instalasi MongoDB](./lessons/mac-mongodb-installation.md)
+- [Instalasi Dbeaver](./lessons/mac-dbeaver-installation.md)
 
 ## Windows
 
