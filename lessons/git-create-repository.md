@@ -1,6 +1,6 @@
-# Cara Membuat Git Repository
+# Cara Membuat Git repositori
 
-1. Sebelum kita membuat sebuah repository, kita harus melakukan inisialisasi nama pengguna kita dengan cara menjalankan perintah `git config --global user.name "nama_anda"` dan `git config --global user.email "email_anda"`. ![git setup](../assets/gifs/git-create-repository/git-setup.gif)
+1. Sebelum kita membuat sebuah repositori, kita harus melakukan inisialisasi nama pengguna kita dengan cara menjalankan perintah `git config --global user.name "nama_anda"` dan `git config --global user.email "email_anda"`. ![git setup](../assets/gifs/git-create-repository/git-setup.gif)
 
    ```bash
    git config --global user.name "John Doe"
@@ -33,14 +33,14 @@
 
 7. Jika ingin menyimpan perubahan kodingan kita secara online. Bisa menggunakan github, gitlab, bitbucket atau yang lainnya.
 
-8. Buatlah repository baru digithub. ![git github new repo](../assets/gifs/git-create-repository/git-github.gif)
+8. Buatlah repositori baru digithub. ![git github new repo](../assets/gifs/git-create-repository/git-github.gif)
 
-9. Kemudian kita sambungkan git lokal kita dengan github dengan menjalankan perintah `git remote add origin alamat_repository` pada terminal kemudian jalankan `git push origin master` untuk mengunggah git lokal kita ke repository github yang sudah kita buat. ![git add remote](../assets/gifs/git-create-repository/git-github-remote.gif)
+9. Kemudian kita sambungkan git lokal kita dengan github dengan menjalankan perintah `git remote add origin alamat_repositori` pada terminal kemudian jalankan `git push origin master` untuk mengunggah git lokal kita ke repositori github yang sudah kita buat. ![git add remote](../assets/gifs/git-create-repository/git-github-remote.gif)
    ![git push](../assets/gifs/git-create-repository/git-github-push.gif)
 
        ```bash
-       git remote add origin git@github.com:miftahmfaris/git-repository.git
+       git remote add origin git@github.com:miftahmfaris/git-repositori.git
        git push origin master
        ```
 
-10. Proses menyimpan git secara online sudah selesai dilakukan. Kita bisa refresh browser kita untuk mengecek apakah sudah berhasil diunggah pada repository kita. ![git github preview](../assets/gifs/git-create-repository/git-github-preview.gif)
+10. Proses menyimpan git secara online sudah selesai dilakukan. Kita bisa refresh browser kita untuk mengecek apakah sudah berhasil diunggah pada repositori kita. ![git github preview](../assets/gifs/git-create-repository/git-github-preview.gif)
