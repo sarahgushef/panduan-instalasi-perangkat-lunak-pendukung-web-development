@@ -8,6 +8,7 @@ Berikut ini beberapa cara untuk instalasi perangkat lunak pendukung _web develop
 
 ## Linux Ubuntu
 
+- [Instalasi Git](./lessons/ubuntu-git-installation.md)
 - [Instalasi VS Code](./lessons/ubuntu-vs-code-installation.md)
 - [Instalasi DBeaver](./lessons/ubuntu-dbeaver-installation.md)
 - [Instalasi NodeJS](./lessons/ubuntu-node-installation.md)
