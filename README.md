@@ -38,6 +38,8 @@ Berikut ini beberapa cara untuk instalasi perangkat lunak pendukung _web develop
 
 - [Instalasi Dbeaver](./lessons/mac-dbeaver-installation.md)
 
+- [Instalasi MongoDB Compass](./lessons/mac-mongodb-compass-installation.md)
+
 ## Windows
 
 - [Instalasi VS Code](./lessons/windows-vs-code-installation.md)
