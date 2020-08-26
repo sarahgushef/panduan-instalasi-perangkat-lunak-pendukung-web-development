@@ -28,6 +28,7 @@ Berikut ini beberapa cara untuk instalasi perangkat lunak pendukung _web develop
 
 ## macOS
 
+- [Instalasi Git](./lessons/mac-git-installation.md)
 - [Instalasi VS Code](./lessons/mac-vs-code-installation.md)
 
 - [Instalasi Node.js](./lessons/mac-node-js-installation.md)
